@@ -5,11 +5,20 @@
     font-family: 'Poppins',sans-serif;
 }
 
+a{
+    color: rgb(169, 53, 53);
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
 body{
-    background:#2c4a66;
+    background:#0f3f67;
     color: white;
     transition:0.4s;
-    font-size: 16px;
+    font-size: 18px;
 }
 
 /* DARK MODE */
